@@ -28,7 +28,7 @@
         "admin-lte": "^3.0.0-alpha.2",
         "font-awesome": "^4.7.0",
         "moment": "^2.24.0",
-        "node-sass": "^4.12.0",
+        "node-sass": "^4.13.1",
         "sweetalert2": "^8.17.1",
         "v-markdown-editor": "^1.1.1",
         "vform": "^1.0.1",
